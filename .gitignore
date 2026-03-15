@@ -2,3 +2,4 @@ output/
 .venv
 paper/
 *.pyc
+.DS_Store
