@@ -1,6 +1,6 @@
 # DPSO: Divergence-Guided Particle Swarm Optimization
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2604.12001)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.12001.svg)](https://arxiv.org/abs/2604.12001)
 
 A JAX-based implementation of DPSO, a PSO variant that adds a divergence-based repulsion term to prevent premature convergence on multimodal landscapes.
 
