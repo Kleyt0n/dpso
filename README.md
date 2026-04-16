@@ -4,6 +4,8 @@
 
 A JAX-based implementation of DPSO, a PSO variant that adds a divergence-based repulsion term to prevent premature convergence on multimodal landscapes.
 
+![](pso_vs_dpso.gif)
+
 ## Quick start
 
 ```bash
